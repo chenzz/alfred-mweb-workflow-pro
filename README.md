@@ -4,7 +4,7 @@
 使用新的语言改写了内部实现，大幅提升了搜索的性能。
 
 # 二、 使用说明
-[下载](https://github.com/chenzz/mweb-alfred-assistant/raw/master/MWebAssistant.alfredworkflow)
+[下载](https://github.com/chenzz/mweb-alfred-assistant/raw/master/MWeb小助手.alfredworkflow)
 
 ## 1. 搜索&打开内部文档
 
